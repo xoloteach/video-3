@@ -1,0 +1,7 @@
+file 'norm-tts-narration-01.mp3'
+file 'norm-tts-narration-02.mp3'
+file 'norm-tts-narration-03.mp3'
+file 'norm-tts-narration-04.mp3'
+file 'norm-tts-narration-05.mp3'
+file 'norm-tts-narration-06.mp3'
+file 'norm-tts-narration-07.mp3'

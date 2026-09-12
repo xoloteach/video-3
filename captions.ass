@@ -1,0 +1,257 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: WWB,Arial,44,&H0000FFFF,&H00FFFFFF,&H00000000,&H64000000,-1,0,0,0,100,100,0,0,1,3,1,5,60,60,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:00.56,0:00:04.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Imagine {\kf96}this, {\kf24}you {\kf24}open {\kf88}Netflix {\kf32}and {\kf32}instead {\kf16}of {\kf24}watching
+Dialogue: 0,0:00:04.24,0:00:05.20,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}something, {\kf16}you {\kf24}spend
+Dialogue: 0,0:00:05.20,0:00:07.28,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}twenty {\kf32}minutes {\kf48}deciding {\kf24}what {\kf16}to {\kf56}watch.
+Dialogue: 0,0:00:07.44,0:00:11.12,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}Then {\kf16}you {\kf32}close {\kf88}Netflix, {\kf24}you {\kf24}open {\kf88}YouTube, {\kf24}you {\kf32}scroll {\kf24}through
+Dialogue: 0,0:00:11.12,0:00:11.60,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}hundreds {\kf16}of
+Dialogue: 0,0:00:11.60,0:00:14.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf112}videos, {\kf8}but {\kf24}still {\kf32}can't {\kf24}decide {\kf16}what {\kf16}to {\kf32}watch.
+Dialogue: 0,0:00:14.24,0:00:17.45,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf8}Then {\kf16}you {\kf24}check {\kf82}Instagram, {\kf32}then {\kf16}your {\kf88}messages, {\kf16}then {\kf24}maybe {\kf15}you
+Dialogue: 0,0:00:17.45,0:00:17.86,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}open {\kf17}a
+Dialogue: 0,0:00:17.86,0:00:18.90,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}shopping {\kf72}app.
+Dialogue: 0,0:00:18.90,0:00:22.10,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}see {\kf40}dozens {\kf16}of {\kf64}products, {\kf40}different {\kf96}phones, {\kf32}different
+Dialogue: 0,0:00:22.10,0:00:25.06,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf96}clothes, {\kf32}different {\kf112}laptops, {\kf56}different
+Dialogue: 0,0:00:25.06,0:00:28.34,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}options, {\kf16}and {\kf40}somehow {\kf40}having {\kf16}all {\kf24}these {\kf32}choices {\kf40}doesn't {\kf16}make {\kf16}you
+Dialogue: 0,0:00:28.34,0:00:28.81,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}feel {\kf23}more
+Dialogue: 0,0:00:28.81,0:00:29.30,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf49}free.
+Dialogue: 0,0:00:29.30,0:00:32.73,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}It {\kf16}makes {\kf16}you {\kf24}feel {\kf88}tired {\kf40}because {\kf40}here's {\kf24}something {\kf48}strange {\kf23}about
+Dialogue: 0,0:00:32.73,0:00:33.69,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}modern {\kf56}life.
+Dialogue: 0,0:00:34.09,0:00:38.57,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}We {\kf16}have {\kf32}more {\kf64}choices {\kf24}than {\kf40}humans {\kf24}have {\kf24}ever {\kf80}had, {\kf16}but {\kf72}somehow {\kf32}we
+Dialogue: 0,0:00:38.57,0:00:40.57,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}struggle {\kf24}to {\kf32}focus {\kf32}on {\kf72}anything.
+Dialogue: 0,0:00:40.73,0:00:44.89,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}We {\kf16}want {\kf16}to {\kf40}learn {\kf32}five {\kf96}skills, {\kf24}start {\kf32}three {\kf72}businesses, {\kf32}read {\kf32}10
+Dialogue: 0,0:00:44.89,0:00:45.45,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}books,
+Dialogue: 0,0:00:45.53,0:00:49.98,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}go {\kf16}to {\kf16}the {\kf45}gym, {\kf48}learn {\kf16}a {\kf80}language, {\kf32}start {\kf40}creating {\kf96}content, {\kf32}make
+Dialogue: 0,0:00:49.98,0:00:50.22,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}more
+Dialogue: 0,0:00:50.22,0:00:53.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}money, {\kf88}travel, {\kf32}build {\kf16}a {\kf32}personal {\kf64}brand.
+Dialogue: 0,0:00:53.42,0:00:57.02,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}And {\kf96}somehow, {\kf16}we {\kf40}expect {\kf32}ourselves {\kf24}to {\kf24}do {\kf16}all {\kf16}of {\kf40}it {\kf32}at {\kf8}the
+Dialogue: 0,0:00:57.02,0:00:57.74,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}same {\kf48}time.
+Dialogue: 0,0:00:58.14,0:01:00.14,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}And {\kf16}when {\kf16}we {\kf40}can't, {\kf8}we {\kf16}think {\kf40}something's {\kf16}wrong {\kf16}with {\kf16}us.
+Dialogue: 0,0:01:00.41,0:01:04.01,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Maybe {\kf24}we're {\kf72}lazy, {\kf24}maybe {\kf24}we're {\kf112}undisciplined, {\kf24}maybe {\kf16}we {\kf24}just
+Dialogue: 0,0:01:04.01,0:01:05.21,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}need {\kf32}more {\kf72}motivation.
+Dialogue: 0,0:01:05.69,0:01:08.01,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}But {\kf16}what {\kf16}if {\kf16}the {\kf32}problem {\kf32}isn't {\kf16}that {\kf16}you {\kf16}have {\kf24}too {\kf32}little
+Dialogue: 0,0:01:08.01,0:01:08.73,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}discipline?
+Dialogue: 0,0:01:08.97,0:01:11.77,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}What {\kf64}if {\kf24}you {\kf40}simply {\kf24}have {\kf16}too {\kf32}many {\kf56}options?
+Dialogue: 0,0:01:12.01,0:01:15.21,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}There {\kf16}is {\kf16}a {\kf56}psychological {\kf80}phenomenon {\kf32}called {\kf48}choice {\kf48}overload.
+Dialogue: 0,0:01:15.64,0:01:17.48,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}The {\kf32}basic {\kf40}idea {\kf16}is {\kf64}simple.
+Dialogue: 0,0:01:17.64,0:01:21.16,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}When {\kf24}people {\kf16}are {\kf32}given {\kf24}too {\kf32}many {\kf88}choices, {\kf24}making {\kf16}a {\kf48}decision {\kf24}can
+Dialogue: 0,0:01:21.16,0:01:21.56,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}actually
+Dialogue: 0,0:01:21.56,0:01:22.60,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}become {\kf64}harder.
+Dialogue: 0,0:01:22.76,0:01:24.76,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}would {\kf16}think {\kf16}the {\kf40}opposite {\kf24}should {\kf16}be {\kf56}true.
+Dialogue: 0,0:01:25.08,0:01:27.00,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}More {\kf32}options {\kf24}should {\kf24}mean {\kf24}more {\kf64}freedom.
+Dialogue: 0,0:01:27.16,0:01:29.32,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}More {\kf32}freedom {\kf32}should {\kf48}mean {\kf40}better {\kf40}decisions.
+Dialogue: 0,0:01:29.85,0:01:32.49,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}But {\kf16}the {\kf32}human {\kf32}brain {\kf32}doesn't {\kf32}always {\kf24}work {\kf16}that {\kf48}way.
+Dialogue: 0,0:01:32.89,0:01:35.69,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Every {\kf32}option {\kf112}creates {\kf48}another {\kf56}question.
+Dialogue: 0,0:01:35.93,0:01:37.69,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}Should {\kf16}I {\kf32}choose {\kf24}this {\kf16}or {\kf64}that?
+Dialogue: 0,0:01:37.77,0:01:39.29,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}What {\kf16}if {\kf24}there's {\kf24}something {\kf64}better?
+Dialogue: 0,0:01:39.37,0:01:40.73,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}What {\kf16}if {\kf16}I {\kf8}make {\kf16}the {\kf24}wrong {\kf40}decision?
+Dialogue: 0,0:01:40.73,0:01:41.93,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf8}What {\kf16}if {\kf16}I {\kf32}regret {\kf48}it?
+Dialogue: 0,0:01:42.09,0:01:44.33,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}And {\kf72}suddenly, {\kf48}choosing {\kf40}becomes {\kf32}work.
+Dialogue: 0,0:01:44.38,0:01:46.62,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Think {\kf16}about {\kf24}something {\kf24}as {\kf16}simple {\kf16}as {\kf24}watching {\kf16}a {\kf56}movie.
+Dialogue: 0,0:01:46.87,0:01:50.54,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}If {\kf16}you {\kf32}only {\kf24}have {\kf32}five {\kf136}movies, {\kf16}you {\kf40}choose {\kf55}one.
+Dialogue: 0,0:01:50.54,0:01:54.78,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}But {\kf16}if {\kf16}you {\kf16}have {\kf104}500, {\kf16}you {\kf32}start {\kf96}searching, {\kf16}you {\kf24}read {\kf72}reviews,
+Dialogue: 0,0:01:54.87,0:01:55.10,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf23}you
+Dialogue: 0,0:01:55.10,0:01:59.00,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}watch {\kf80}trailers, {\kf16}you {\kf40}compare {\kf86}ratings, {\kf32}you {\kf16}look {\kf40}at {\kf24}what {\kf32}other
+Dialogue: 0,0:01:59.00,0:01:59.40,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}people {\kf24}are
+Dialogue: 0,0:01:59.40,0:02:02.84,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}watching, {\kf16}and {\kf24}after {\kf40}twenty {\kf80}minutes, {\kf24}you {\kf32}haven't {\kf40}watched
+Dialogue: 0,0:02:02.84,0:02:03.56,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}anything.
+Dialogue: 0,0:02:03.88,0:02:06.76,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}The {\kf32}problem {\kf32}wasn't {\kf16}a {\kf24}lack {\kf16}of {\kf88}entertainment, {\kf16}the {\kf32}problem {\kf16}was
+Dialogue: 0,0:02:06.76,0:02:07.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}too {\kf16}much
+Dialogue: 0,0:02:07.24,0:02:07.96,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}choice.
+Dialogue: 0,0:02:08.04,0:02:10.84,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}And {\kf24}this {\kf40}happens {\kf80}everywhere, {\kf48}especially {\kf24}with {\kf24}your {\kf24}life.
+Dialogue: 0,0:02:11.18,0:02:14.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}You {\kf24}don't {\kf24}just {\kf24}have {\kf32}one {\kf48}career {\kf32}path {\kf72}anymore, {\kf16}you {\kf24}have
+Dialogue: 0,0:02:14.38,0:02:15.10,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}thousands.
+Dialogue: 0,0:02:15.10,0:02:20.06,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}can {\kf32}become {\kf16}a {\kf88}designer, {\kf16}a {\kf88}programmer, {\kf16}a {\kf88}doctor, {\kf16}a {\kf88}lawyer, {\kf16}a
+Dialogue: 0,0:02:20.06,0:02:25.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}creator, {\kf16}a {\kf88}freelancer, {\kf24}a {\kf80}businessman, {\kf32}a {\kf61}trader, {\kf16}a {\kf112}YouTuber, {\kf15}a
+Dialogue: 0,0:02:25.38,0:02:26.10,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}consultant.
+Dialogue: 0,0:02:26.10,0:02:29.86,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}You {\kf16}can {\kf24}work {\kf88}remotely, {\kf32}move {\kf24}to {\kf40}another {\kf72}country, {\kf40}start {\kf16}a
+Dialogue: 0,0:02:29.86,0:02:30.90,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}company, {\kf32}build
+Dialogue: 0,0:02:30.90,0:02:34.82,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}an {\kf40}online {\kf88}business, {\kf24}learn {\kf72}artificial {\kf104}intelligence, {\kf40}learn
+Dialogue: 0,0:02:34.82,0:02:38.10,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf104}marketing, {\kf40}learn {\kf72}editing, {\kf40}learn {\kf72}coding,
+Dialogue: 0,0:02:38.10,0:02:38.90,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}learn {\kf48}sales.
+Dialogue: 0,0:02:39.24,0:02:44.28,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}And {\kf32}every {\kf88}day {\kf32}the {\kf96}Internet {\kf40}reminds {\kf56}you {\kf40}that {\kf40}someone {\kf24}is {\kf24}doing
+Dialogue: 0,0:02:44.28,0:02:44.52,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}all
+Dialogue: 0,0:02:44.52,0:02:45.48,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}of {\kf24}these {\kf56}things.
+Dialogue: 0,0:02:45.72,0:02:49.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Someone {\kf24}is {\kf40}making {\kf32}money {\kf24}from {\kf88}YouTube, {\kf32}someone {\kf16}is {\kf40}traveling {\kf24}the
+Dialogue: 0,0:02:49.24,0:02:50.20,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}world, {\kf32}someone
+Dialogue: 0,0:02:50.20,0:02:54.12,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}built {\kf24}a {\kf32}company {\kf24}at {\kf80}20, {\kf32}someone {\kf32}learned {\kf24}a {\kf16}new {\kf32}skill {\kf24}in {\kf32}three
+Dialogue: 0,0:02:54.12,0:02:57.01,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}months, {\kf40}someone {\kf24}is {\kf32}already {\kf32}living {\kf16}the {\kf24}life {\kf16}you {\kf16}are {\kf33}still
+Dialogue: 0,0:02:57.01,0:02:57.49,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}trying {\kf16}to
+Dialogue: 0,0:02:57.49,0:03:01.09,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}figure {\kf80}out, {\kf16}and {\kf32}that's {\kf40}where {\kf56}another {\kf40}problem {\kf72}begins.
+Dialogue: 0,0:03:01.17,0:03:03.65,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}FOMO, {\kf24}the {\kf24}fear {\kf24}of {\kf32}missing {\kf56}out.
+Dialogue: 0,0:03:03.73,0:03:07.09,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Because {\kf24}when {\kf16}you {\kf24}have {\kf64}unlimited {\kf88}options, {\kf40}committing {\kf16}to {\kf32}one
+Dialogue: 0,0:03:07.09,0:03:08.29,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf48}option {\kf40}means {\kf32}saying
+Dialogue: 0,0:03:08.29,0:03:09.81,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}no {\kf24}to {\kf40}thousands {\kf32}of {\kf24}others.
+Dialogue: 0,0:03:10.00,0:03:11.68,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}And {\kf8}then {\kf24}your {\kf24}brain {\kf24}doesn't {\kf24}like {\kf32}that.
+Dialogue: 0,0:03:11.68,0:03:17.20,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Imagine {\kf80}you {\kf72}decide {\kf32}to {\kf40}focus {\kf80}on {\kf96}learning {\kf32}one {\kf32}skill {\kf24}for {\kf8}the {\kf24}next
+Dialogue: 0,0:03:17.20,0:03:21.44,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}year, {\kf40}sounds {\kf80}simple {\kf32}but {\kf48}then {\kf24}you {\kf32}see {\kf32}someone {\kf48}online {\kf56}talking
+Dialogue: 0,0:03:21.44,0:03:22.48,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}about {\kf48}another
+Dialogue: 0,0:03:22.48,0:03:25.13,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf112}skill, {\kf16}it {\kf24}looks {\kf24}more {\kf89}profitable.
+Dialogue: 0,0:03:25.20,0:03:29.50,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}So {\kf24}you {\kf37}start {\kf48}thinking {\kf120}maybe {\kf24}I {\kf16}should {\kf24}learn {\kf16}that {\kf88}instead, {\kf17}then
+Dialogue: 0,0:03:29.50,0:03:29.66,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}you
+Dialogue: 0,0:03:29.66,0:03:33.74,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}see {\kf40}another {\kf72}opportunity, {\kf64}then {\kf56}Because {\kf16}you {\kf24}are {\kf64}active {\kf32}but {\kf24}not
+Dialogue: 0,0:03:33.74,0:03:35.02,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf96}focused {\kf32}and
+Dialogue: 0,0:03:35.02,0:03:39.98,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}focus {\kf80}is {\kf24}not {\kf40}simply {\kf32}the {\kf48}ability {\kf32}to {\kf104}concentrate, {\kf40}focus {\kf32}is {\kf24}the
+Dialogue: 0,0:03:39.98,0:03:40.54,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}ability
+Dialogue: 0,0:03:40.54,0:03:41.26,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}to {\kf40}ignore.
+Dialogue: 0,0:03:41.82,0:03:44.94,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}To {\kf24}say {\kf40}not {\kf56}this, {\kf16}not {\kf64}now, {\kf24}maybe {\kf64}later.
+Dialogue: 0,0:03:45.18,0:03:47.42,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}I'm {\kf24}choosing {\kf24}this {\kf16}one {\kf16}thing {\kf24}that {\kf32}sounds {\kf64}easy.
+Dialogue: 0,0:03:47.66,0:03:52.62,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}But, {\kf48}it's {\kf96}incredibly {\kf96}difficult {\kf24}in {\kf16}a {\kf24}world {\kf80}designed {\kf40}to {\kf24}give {\kf16}you
+Dialogue: 0,0:03:52.62,0:03:53.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}more.
+Dialogue: 0,0:03:53.42,0:03:57.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}More {\kf89}content, {\kf24}more {\kf104}entertainment, {\kf24}more {\kf96}products, {\kf15}more
+Dialogue: 0,0:03:57.18,0:04:00.62,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf104}information, {\kf24}more {\kf112}opportunities, {\kf24}more {\kf80}opinions,
+Dialogue: 0,0:04:00.78,0:04:03.82,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}more {\kf32}people {\kf40}telling {\kf40}you {\kf24}what {\kf24}you {\kf16}should {\kf16}do {\kf24}with {\kf16}your {\kf48}life.
+Dialogue: 0,0:04:03.90,0:04:08.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}And {\kf24}the {\kf32}strange {\kf24}thing {\kf32}is {\kf40}we {\kf32}often {\kf72}mistake {\kf40}more {\kf104}information {\kf32}for
+Dialogue: 0,0:04:08.38,0:04:08.70,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}more
+Dialogue: 0,0:04:08.70,0:04:09.42,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}progress.
+Dialogue: 0,0:04:09.50,0:04:13.39,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}We {\kf61}think {\kf32}if {\kf24}we {\kf32}keep {\kf80}researching, {\kf8}we {\kf24}will {\kf56}eventually {\kf32}find {\kf16}the
+Dialogue: 0,0:04:13.39,0:04:13.72,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf33}perfect
+Dialogue: 0,0:04:13.72,0:04:18.44,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf96}answer, {\kf16}the {\kf48}perfect {\kf104}career, {\kf16}the {\kf32}perfect {\kf104}business, {\kf16}the {\kf40}perfect
+Dialogue: 0,0:04:18.44,0:04:19.96,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf104}strategy, {\kf16}the {\kf32}perfect
+Dialogue: 0,0:04:19.96,0:04:22.12,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf104}routine, {\kf16}the {\kf32}perfect {\kf64}opportunity.
+Dialogue: 0,0:04:22.69,0:04:25.73,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}But {\kf88}sometimes, {\kf40}research {\kf64}becomes {\kf40}another {\kf24}form {\kf16}of
+Dialogue: 0,0:04:25.73,0:04:27.97,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf120}procrastination {\kf40}because {\kf32}as {\kf16}long {\kf16}as
+Dialogue: 0,0:04:27.97,0:04:30.45,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}you're {\kf88}researching, {\kf8}you {\kf24}don't {\kf16}have {\kf16}to {\kf64}commit.
+Dialogue: 0,0:04:30.61,0:04:33.97,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf24}can {\kf24}keep {\kf56}imagining {\kf48}different {\kf72}futures {\kf24}and {\kf32}every {\kf40}future
+Dialogue: 0,0:04:33.97,0:04:35.36,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}looks {\kf83}possible, {\kf24}but
+Dialogue: 0,0:04:35.36,0:04:37.52,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}none {\kf16}of {\kf56}them {\kf48}become {\kf64}real.
+Dialogue: 0,0:04:37.68,0:04:40.73,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}This {\kf16}is {\kf24}why {\kf64}constraints {\kf32}can {\kf48}actually {\kf24}be {\kf65}powerful.
+Dialogue: 0,0:04:40.96,0:04:43.04,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}A {\kf40}constraint {\kf24}is {\kf40}simply {\kf24}a {\kf56}limit.
+Dialogue: 0,0:04:43.20,0:04:46.96,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Instead {\kf24}of {\kf32}asking {\kf32}what {\kf24}could {\kf16}I {\kf40}possibly {\kf64}do, {\kf24}you {\kf32}ask {\kf24}what {\kf24}am
+Dialogue: 0,0:04:46.96,0:04:47.60,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}I {\kf24}going {\kf8}to {\kf16}do?
+Dialogue: 0,0:04:48.24,0:04:50.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}Instead {\kf24}of {\kf24}10 {\kf56}goals, {\kf24}choose {\kf56}two.
+Dialogue: 0,0:04:50.32,0:04:53.28,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Instead {\kf16}of {\kf40}learning {\kf32}five {\kf80}skills, {\kf32}choose {\kf64}one.
+Dialogue: 0,0:04:53.44,0:04:57.28,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Instead {\kf16}of {\kf40}trying {\kf40}every {\kf72}strategy, {\kf40}choose {\kf48}one {\kf32}and {\kf24}stay {\kf24}with {\kf16}it
+Dialogue: 0,0:04:57.28,0:04:57.52,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}long
+Dialogue: 0,0:04:57.52,0:04:59.28,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}enough {\kf32}to {\kf24}see {\kf24}what {\kf64}happens.
+Dialogue: 0,0:04:59.52,0:05:02.88,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Instead {\kf16}of {\kf88}asking, {\kf32}what's {\kf24}the {\kf24}best {\kf56}possible {\kf64}option?
+Dialogue: 0,0:05:03.36,0:05:06.94,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}Ask, {\kf45}what's {\kf24}good {\kf32}enough {\kf16}for {\kf16}me {\kf16}to {\kf24}move {\kf64}forward {\kf57}because
+Dialogue: 0,0:05:06.94,0:05:07.98,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}perfection {\kf32}has
+Dialogue: 0,0:05:07.98,0:05:09.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}a {\kf32}hidden {\kf64}cost.
+Dialogue: 0,0:05:09.33,0:05:13.50,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}The {\kf16}more {\kf24}you {\kf24}try {\kf16}to {\kf56}optimize {\kf40}every {\kf96}decision, {\kf16}the {\kf24}more {\kf56}time {\kf33}you
+Dialogue: 0,0:05:13.50,0:05:14.86,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf48}spend {\kf88}deciding.
+Dialogue: 0,0:05:14.94,0:05:19.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}And {\kf112}eventually, {\kf16}you {\kf80}optimize {\kf20}your {\kf32}yourself {\kf64}into {\kf24}an {\kf56}action, {\kf16}you
+Dialogue: 0,0:05:19.38,0:05:19.78,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}don't {\kf24}need
+Dialogue: 0,0:05:19.78,0:05:23.62,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}the {\kf32}perfect {\kf96}choice, {\kf8}you {\kf24}need {\kf16}a {\kf56}choice {\kf24}you {\kf24}can {\kf32}commit {\kf56}to.
+Dialogue: 0,0:05:24.18,0:05:27.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Think {\kf48}about {\kf96}successful {\kf40}people {\kf24}you {\kf80}admire.
+Dialogue: 0,0:05:27.70,0:05:31.30,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Many {\kf16}of {\kf8}them {\kf32}didn't {\kf64}win {\kf56}because {\kf32}they {\kf40}discover {\kf32}some {\kf40}secret
+Dialogue: 0,0:05:31.30,0:05:32.50,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf95}opportunity {\kf25}that
+Dialogue: 0,0:05:32.50,0:05:33.94,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf48}nobody {\kf24}else {\kf24}could {\kf48}see.
+Dialogue: 0,0:05:34.10,0:05:37.29,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}They {\kf32}often {\kf32}won {\kf32}because {\kf16}they {\kf24}stay {\kf32}with {\kf32}something {\kf64}longer {\kf31}than
+Dialogue: 0,0:05:37.29,0:05:37.78,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}most {\kf25}people
+Dialogue: 0,0:05:37.78,0:05:38.74,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}were {\kf32}willing {\kf48}to.
+Dialogue: 0,0:05:39.22,0:05:44.99,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}They {\kf104}repeated, {\kf24}they {\kf104}improved, {\kf16}they {\kf32}became {\kf266}better, {\kf15}they
+Dialogue: 0,0:05:44.99,0:05:46.27,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}developed {\kf24}an {\kf64}advantage.
+Dialogue: 0,0:05:46.43,0:05:49.47,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}While {\kf40}everyone {\kf24}else {\kf24}was {\kf40}jumping {\kf32}from {\kf24}one {\kf16}thing {\kf24}to {\kf64}another,
+Dialogue: 0,0:05:49.71,0:05:50.03,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}they {\kf16}were
+Dialogue: 0,0:05:50.03,0:05:50.91,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}still {\kf64}working.
+Dialogue: 0,0:05:51.07,0:05:53.79,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}This {\kf24}doesn't {\kf24}mean {\kf16}you {\kf16}should {\kf48}blindly {\kf24}stick {\kf16}with {\kf16}a {\kf16}bad {\kf48}decision
+Dialogue: 0,0:05:53.79,0:05:54.43,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}forever.
+Dialogue: 0,0:05:54.83,0:05:58.76,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Sometimes {\kf40}changing {\kf96}direction {\kf32}is {\kf40}exactly {\kf24}what {\kf16}you {\kf80}need {\kf25}but
+Dialogue: 0,0:05:58.76,0:05:59.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}there {\kf16}is {\kf8}a
+Dialogue: 0,0:05:59.24,0:06:01.48,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}difference {\kf32}between {\kf32}changing {\kf48}direction {\kf32}because {\kf24}you've {\kf24}learned
+Dialogue: 0,0:06:01.48,0:06:03.56,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}something {\kf32}and {\kf32}changing {\kf48}direction {\kf40}because
+Dialogue: 0,0:06:03.56,0:06:05.24,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}you're {\kf48}uncomfortable {\kf16}with {\kf80}commitment.
+Dialogue: 0,0:06:05.32,0:06:07.40,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}That's {\kf8}the {\kf24}part {\kf32}most {\kf16}people {\kf32}don't {\kf64}notice.
+Dialogue: 0,0:06:07.88,0:06:11.56,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}You {\kf32}start {\kf80}something, {\kf16}the {\kf48}excitement {\kf24}is {\kf72}high, {\kf40}everything {\kf32}feels
+Dialogue: 0,0:06:11.56,0:06:13.03,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf100}new, {\kf32}then {\kf15}the
+Dialogue: 0,0:06:13.03,0:06:14.55,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}results {\kf24}don't {\kf24}come {\kf64}quickly.
+Dialogue: 0,0:06:14.87,0:06:18.63,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}So {\kf40}another {\kf48}opportunity {\kf32}starts {\kf40}looking {\kf104}attractive, {\kf16}you {\kf80}switch
+Dialogue: 0,0:06:18.71,0:06:20.87,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}again {\kf32}and {\kf56}again {\kf40}and
+Dialogue: 0,0:06:20.87,0:06:25.19,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}again {\kf48}until {\kf40}years {\kf96}pass, {\kf24}you {\kf24}have {\kf48}experience {\kf40}starting {\kf48}things
+Dialogue: 0,0:06:25.34,0:06:26.14,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}but {\kf24}very {\kf24}little
+Dialogue: 0,0:06:26.14,0:06:27.58,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}experience {\kf40}finishing {\kf64}them.
+Dialogue: 0,0:06:27.66,0:06:30.06,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}The {\kf16}world {\kf40}doesn't {\kf32}reward {\kf40}everything {\kf16}you {\kf16}could {\kf16}have {\kf48}done.
+Dialogue: 0,0:06:30.46,0:06:34.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}It {\kf56}rewards {\kf32}what {\kf16}you {\kf40}actually {\kf64}do {\kf24}and {\kf32}that's {\kf16}why {\kf24}your {\kf40}ability {\kf24}to
+Dialogue: 0,0:06:34.38,0:06:37.02,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}eliminate {\kf88}options {\kf32}can {\kf32}become {\kf16}a {\kf56}superpower.
+Dialogue: 0,0:06:37.36,0:06:41.12,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}Imagine {\kf40}waking {\kf56}up {\kf32}and {\kf40}already {\kf24}knowing {\kf32}what {\kf32}matters {\kf64}today.
+Dialogue: 0,0:06:41.52,0:06:44.96,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}don't {\kf16}need {\kf16}to {\kf32}decide {\kf24}what {\kf16}to {\kf80}learn, {\kf16}you {\kf40}already {\kf72}chose.
+Dialogue: 0,0:06:45.12,0:06:48.32,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}don't {\kf16}need {\kf16}to {\kf32}decide {\kf24}what {\kf32}project {\kf24}to {\kf16}work {\kf72}on, {\kf16}you {\kf40}already
+Dialogue: 0,0:06:48.32,0:06:48.96,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}chose.
+Dialogue: 0,0:06:49.12,0:06:52.00,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}You {\kf16}don't {\kf16}need {\kf24}to {\kf48}constantly {\kf24}search {\kf16}for {\kf16}a {\kf24}better {\kf56}plan, {\kf16}you
+Dialogue: 0,0:06:52.00,0:06:52.32,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}already
+Dialogue: 0,0:06:52.32,0:06:52.88,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}have {\kf24}one.
+Dialogue: 0,0:06:53.12,0:06:56.08,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}Your {\kf32}brain {\kf40}becomes {\kf72}quieter, {\kf24}your {\kf40}energy {\kf40}becomes {\kf24}more
+Dialogue: 0,0:06:56.08,0:06:57.84,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}concentrated {\kf32}and {\kf48}progress {\kf32}becomes
+Dialogue: 0,0:06:57.84,0:06:59.04,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}easier {\kf8}to {\kf56}see.
+Dialogue: 0,0:06:59.28,0:07:02.80,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}This {\kf16}is {\kf16}what {\kf48}systems {\kf24}can {\kf48}do, {\kf24}a {\kf24}system {\kf48}removes {\kf88}decisions.
+Dialogue: 0,0:07:02.96,0:07:05.60,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}Instead {\kf24}of {\kf40}asking {\kf32}every {\kf32}morning {\kf32}whether {\kf24}you're {\kf16}going {\kf16}to {\kf24}work
+Dialogue: 0,0:07:05.60,0:07:05.92,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf8}out, {\kf24}you
+Dialogue: 0,0:07:05.92,0:07:06.88,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}have {\kf16}a {\kf64}schedule.
+Dialogue: 0,0:07:07.04,0:07:11.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Instead {\kf16}of {\kf48}deciding {\kf32}every {\kf78}day {\kf32}what {\kf16}to {\kf24}work {\kf72}on, {\kf16}you {\kf24}have {\kf16}a
+Dialogue: 0,0:07:11.18,0:07:11.98,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf80}priority.
+Dialogue: 0,0:07:12.06,0:07:14.94,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}Instead {\kf16}of {\kf48}wondering {\kf32}when {\kf32}you'll {\kf56}create, {\kf8}you {\kf16}have {\kf16}a {\kf32}fixed
+Dialogue: 0,0:07:14.94,0:07:15.58,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf64}time.
+Dialogue: 0,0:07:15.66,0:07:18.86,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf24}don't {\kf40}rely {\kf24}on {\kf96}motivation, {\kf16}you {\kf40}reduce {\kf24}the {\kf24}number {\kf16}of
+Dialogue: 0,0:07:18.86,0:07:20.06,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}decisions {\kf80}required
+Dialogue: 0,0:07:20.06,0:07:22.94,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}and {\kf32}that's {\kf32}important {\kf32}because {\kf64}disciplines {\kf40}isn't {\kf32}always {\kf32}about
+Dialogue: 0,0:07:22.94,0:07:24.14,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}forcing {\kf40}yourself {\kf16}to {\kf24}do
+Dialogue: 0,0:07:24.14,0:07:24.30,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}more.
+Dialogue: 0,0:07:24.81,0:07:28.09,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}Sometimes {\kf48}discipline {\kf40}means {\kf56}designing {\kf16}your {\kf48}life {\kf32}so {\kf16}you {\kf16}have
+Dialogue: 0,0:07:28.09,0:07:28.90,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}fewer {\kf32}things {\kf17}to
+Dialogue: 0,0:07:28.90,0:07:30.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}fight {\kf48}yourself {\kf56}about.
+Dialogue: 0,0:07:30.41,0:07:34.18,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}The {\kf24}goal {\kf40}isn't {\kf16}to {\kf48}eliminate {\kf80}freedom, {\kf24}it's {\kf16}to {\kf32}use {\kf73}freedom
+Dialogue: 0,0:07:34.18,0:07:35.69,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf112}intelligently {\kf39}because
+Dialogue: 0,0:07:35.69,0:07:39.06,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf48}unlimited {\kf40}choice {\kf32}sounds {\kf64}amazing {\kf48}until {\kf16}you {\kf40}realize {\kf16}that {\kf33}every
+Dialogue: 0,0:07:39.06,0:07:40.25,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}choice {\kf40}demands {\kf47}attention,
+Dialogue: 0,0:07:40.71,0:07:43.99,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}and {\kf24}your {\kf48}attention {\kf24}is {\kf16}one {\kf16}of {\kf8}the {\kf24}most {\kf48}valuable {\kf24}things {\kf16}you {\kf56}own.
+Dialogue: 0,0:07:44.31,0:07:48.39,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf48}Companies {\kf48}compete {\kf16}for {\kf56}it, {\kf56}apps {\kf40}compete {\kf16}for {\kf48}it, {\kf80}advertisers
+Dialogue: 0,0:07:48.39,0:07:49.43,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}compete {\kf16}for {\kf48}it,
+Dialogue: 0,0:07:49.43,0:07:51.11,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}creators {\kf40}compete {\kf24}for {\kf48}it.
+Dialogue: 0,0:07:51.19,0:07:54.15,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Everyone {\kf32}wants {\kf16}a {\kf24}piece {\kf8}of {\kf24}your {\kf72}attention {\kf24}and {\kf16}if {\kf16}you {\kf24}don't
+Dialogue: 0,0:07:54.15,0:07:54.55,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}decide
+Dialogue: 0,0:07:54.55,0:07:58.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}where {\kf24}your {\kf40}attention {\kf70}goes, {\kf48}someone {\kf32}else {\kf24}will {\kf40}decide {\kf24}for {\kf57}you.
+Dialogue: 0,0:07:58.54,0:08:01.90,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}That's {\kf16}why {\kf56}protecting {\kf24}your {\kf32}focus {\kf88}matters, {\kf16}not {\kf32}because {\kf40}every
+Dialogue: 0,0:08:01.90,0:08:03.42,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}distraction {\kf16}is {\kf80}dangerous,
+Dialogue: 0,0:08:03.50,0:08:07.01,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}but {\kf24}because {\kf40}small {\kf56}distractions {\kf64}repeated {\kf32}every {\kf40}day {\kf32}can {\kf47}slowly
+Dialogue: 0,0:08:07.01,0:08:08.06,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}shape {\kf24}your {\kf57}life.
+Dialogue: 0,0:08:08.29,0:08:12.64,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}One {\kf40}video {\kf32}becomes {\kf75}ten, {\kf32}one {\kf72}notification {\kf40}becomes {\kf24}an {\kf72}hour, {\kf24}one
+Dialogue: 0,0:08:12.64,0:08:13.20,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}new {\kf40}idea
+Dialogue: 0,0:08:13.20,0:08:17.04,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}becomes {\kf48}another {\kf56}unfinished {\kf88}project, {\kf24}one {\kf64}comparison {\kf40}becomes {\kf24}a
+Dialogue: 0,0:08:17.04,0:08:18.56,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf48}completely {\kf24}new {\kf56}goal {\kf24}and
+Dialogue: 0,0:08:18.56,0:08:22.08,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf80}slowly {\kf24}You {\kf32}stop {\kf48}living {\kf40}according {\kf24}to {\kf24}your {\kf80}priorities.
+Dialogue: 0,0:08:22.24,0:08:25.82,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf32}start {\kf109}reacting {\kf24}to {\kf40}whatever {\kf40}appears {\kf24}in {\kf16}front {\kf8}of {\kf49}you.
+Dialogue: 0,0:08:25.98,0:08:30.46,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}So {\kf56}maybe {\kf32}the {\kf32}question {\kf120}isn't {\kf32}how {\kf16}can {\kf24}I {\kf56}do {\kf56}more?
+Dialogue: 0,0:08:30.70,0:08:34.29,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Maybe {\kf24}the {\kf32}better {\kf40}question {\kf72}is {\kf32}what {\kf16}can {\kf16}I {\kf24}stop {\kf63}doing?
+Dialogue: 0,0:08:34.70,0:08:36.78,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}What {\kf40}goals {\kf24}don't {\kf48}actually {\kf64}matter?
+Dialogue: 0,0:08:36.93,0:08:38.70,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}What {\kf64}information {\kf32}don't {\kf24}I {\kf25}need?
+Dialogue: 0,0:08:39.30,0:08:43.62,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}What {\kf104}opportunities {\kf32}am {\kf16}I {\kf64}chasing {\kf48}simply {\kf80}because {\kf32}they {\kf24}look
+Dialogue: 0,0:08:43.62,0:08:44.34,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf72}impressive?
+Dialogue: 0,0:08:44.82,0:08:48.50,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}What {\kf48}decisions {\kf32}can {\kf16}I {\kf32}make {\kf40}once {\kf32}rich {\kf32}so {\kf48}I {\kf24}don't {\kf24}have {\kf16}to
+Dialogue: 0,0:08:48.50,0:08:49.94,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}make {\kf32}them {\kf40}every {\kf48}day?
+Dialogue: 0,0:08:50.18,0:08:52.82,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}And {\kf32}most {\kf96}importantly, {\kf16}what {\kf40}deserves {\kf32}my {\kf32}attention?
+Dialogue: 0,0:08:53.20,0:08:56.55,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}Because {\kf24}your {\kf24}life {\kf32}will {\kf32}always {\kf24}have {\kf32}more {\kf80}possibilities {\kf32}than {\kf15}you
+Dialogue: 0,0:08:56.55,0:08:57.36,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}can {\kf65}pursue.
+Dialogue: 0,0:08:57.67,0:08:59.92,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}That's {\kf16}not {\kf16}a {\kf64}problem, {\kf24}that's {\kf73}reality.
+Dialogue: 0,0:09:00.24,0:09:03.76,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf32}cannot {\kf64}experience {\kf40}every {\kf80}career, {\kf16}you {\kf32}cannot {\kf40}visit {\kf32}every
+Dialogue: 0,0:09:03.76,0:09:05.04,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf80}country, {\kf16}you {\kf32}cannot
+Dialogue: 0,0:09:05.04,0:09:09.03,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}learn {\kf32}every {\kf72}skill, {\kf32}you {\kf32}cannot {\kf32}build {\kf40}every {\kf72}business, {\kf16}you {\kf31}cannot
+Dialogue: 0,0:09:09.03,0:09:09.91,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}read {\kf32}every
+Dialogue: 0,0:09:09.91,0:09:14.23,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf80}book, {\kf8}you {\kf40}cannot {\kf40}take {\kf40}every {\kf104}opportunity {\kf24}and {\kf32}that's {\kf64}okay.
+Dialogue: 0,0:09:14.47,0:09:17.51,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}don't {\kf24}need {\kf32}every {\kf48}possible {\kf48}life, {\kf8}you {\kf16}need {\kf16}to {\kf24}build {\kf56}one.
+Dialogue: 0,0:09:17.91,0:09:21.34,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}That {\kf32}means {\kf48}closing {\kf24}some {\kf88}doors, {\kf48}saying {\kf32}no {\kf32}to {\kf23}some
+Dialogue: 0,0:09:21.34,0:09:23.66,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf112}opportunities, {\kf88}accepting {\kf32}that
+Dialogue: 0,0:09:23.66,0:09:28.14,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}you {\kf24}might {\kf32}miss {\kf88}out, {\kf56}choosing {\kf104}something {\kf32}and {\kf32}giving {\kf16}it {\kf40}enough
+Dialogue: 0,0:09:28.14,0:09:29.02,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}time {\kf32}to
+Dialogue: 0,0:09:29.02,0:09:33.91,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}becoming {\kf112}meaningful {\kf88}because {\kf128}sometimes {\kf32}the {\kf32}freedom {\kf24}to {\kf33}choose
+Dialogue: 0,0:09:33.91,0:09:35.67,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf80}everything {\kf32}is {\kf40}exactly {\kf24}what
+Dialogue: 0,0:09:35.67,0:09:37.35,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}keeps {\kf16}you {\kf24}from {\kf40}choosing {\kf64}anything.
+Dialogue: 0,0:09:37.83,0:09:41.75,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}Your {\kf32}focus {\kf48}becomes {\kf72}stronger {\kf32}when {\kf24}your {\kf40}options {\kf48}become {\kf72}smaller.
+Dialogue: 0,0:09:41.91,0:09:45.43,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf24}Your {\kf48}progress {\kf48}becomes {\kf80}faster {\kf32}when {\kf16}your {\kf56}direction {\kf48}becomes
+Dialogue: 0,0:09:45.43,0:09:46.79,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}clearer {\kf32}and {\kf24}your {\kf24}life
+Dialogue: 0,0:09:46.79,0:09:51.38,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}becomes {\kf75}calmer {\kf32}when {\kf16}you {\kf24}stop {\kf96}asking {\kf24}what {\kf24}else {\kf24}could {\kf8}I {\kf64}do {\kf32}and
+Dialogue: 0,0:09:51.38,0:09:54.34,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf32}start {\kf96}asking {\kf32}what {\kf16}have {\kf8}I {\kf40}decided {\kf24}to {\kf48}do.
+Dialogue: 0,0:09:54.66,0:09:57.86,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf16}You {\kf16}don't {\kf24}need {\kf32}more {\kf72}options, {\kf8}you {\kf24}need {\kf32}fewer {\kf32}better {\kf64}ones
+Dialogue: 0,0:09:57.95,0:09:59.22,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf56}because {\kf71}sometimes
+Dialogue: 0,0:09:59.50,0:10:01.82,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf40}less {\kf32}choice {\kf32}doesn't {\kf24}mean {\kf32}less {\kf72}freedom.
+Dialogue: 0,0:10:02.06,0:10:05.90,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}Sometimes {\kf40}it's {\kf16}the {\kf48}thing {\kf32}that {\kf40}finally {\kf40}gives {\kf16}you {\kf64}freedom.
+Dialogue: 0,0:10:06.30,0:10:08.22,WWB,,0,0,0,,{\an5\pos(640,620)\q2}{\kf88}Subscribe {\kf24}to {\kf24}Why {\kf16}We {\kf40}Become.
