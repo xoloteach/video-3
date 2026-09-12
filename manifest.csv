@@ -1,334 +1,235 @@
-frame,source_sheet,row,column,asset_source,rights_status
-frame-001.png,sheet-01.png,1,1,original generated illustration,original
-frame-002.png,sheet-01.png,1,2,original generated illustration,original
-frame-003.png,sheet-01.png,1,3,original generated illustration,original
-frame-004.png,sheet-01.png,2,1,original generated illustration,original
-frame-005.png,sheet-01.png,2,2,original generated illustration,original
-frame-006.png,sheet-01.png,2,3,original generated illustration,original
-frame-007.png,sheet-01.png,3,1,original generated illustration,original
-frame-008.png,sheet-01.png,3,2,original generated illustration,original
-frame-009.png,sheet-01.png,3,3,original generated illustration,original
-frame-010.png,sheet-02.png,1,1,original generated illustration,original
-frame-011.png,sheet-02.png,1,2,original generated illustration,original
-frame-012.png,sheet-02.png,1,3,original generated illustration,original
-frame-013.png,sheet-02.png,2,1,original generated illustration,original
-frame-014.png,sheet-02.png,2,2,original generated illustration,original
-frame-015.png,sheet-02.png,2,3,original generated illustration,original
-frame-016.png,sheet-02.png,3,1,original generated illustration,original
-frame-017.png,sheet-02.png,3,2,original generated illustration,original
-frame-018.png,sheet-02.png,3,3,original generated illustration,original
-frame-019.png,sheet-03.png,1,1,original generated illustration,original
-frame-020.png,sheet-03.png,1,2,original generated illustration,original
-frame-021.png,sheet-03.png,1,3,original generated illustration,original
-frame-022.png,sheet-03.png,2,1,original generated illustration,original
-frame-023.png,sheet-03.png,2,2,original generated illustration,original
-frame-024.png,sheet-03.png,2,3,original generated illustration,original
-frame-025.png,sheet-03.png,3,1,original generated illustration,original
-frame-026.png,sheet-03.png,3,2,original generated illustration,original
-frame-027.png,sheet-03.png,3,3,original generated illustration,original
-frame-028.png,sheet-04.png,1,1,original generated illustration,original
-frame-029.png,sheet-04.png,1,2,original generated illustration,original
-frame-030.png,sheet-04.png,1,3,original generated illustration,original
-frame-031.png,sheet-04.png,2,1,original generated illustration,original
-frame-032.png,sheet-04.png,2,2,original generated illustration,original
-frame-033.png,sheet-04.png,2,3,original generated illustration,original
-frame-034.png,sheet-04.png,3,1,original generated illustration,original
-frame-035.png,sheet-04.png,3,2,original generated illustration,original
-frame-036.png,sheet-04.png,3,3,original generated illustration,original
-frame-037.png,sheet-05.png,1,1,original generated illustration,original
-frame-038.png,sheet-05.png,1,2,original generated illustration,original
-frame-039.png,sheet-05.png,1,3,original generated illustration,original
-frame-040.png,sheet-05.png,2,1,original generated illustration,original
-frame-041.png,sheet-05.png,2,2,original generated illustration,original
-frame-042.png,sheet-05.png,2,3,original generated illustration,original
-frame-043.png,sheet-05.png,3,1,original generated illustration,original
-frame-044.png,sheet-05.png,3,2,original generated illustration,original
-frame-045.png,sheet-05.png,3,3,original generated illustration,original
-frame-046.png,sheet-06.png,1,1,original generated illustration,original
-frame-047.png,sheet-06.png,1,2,original generated illustration,original
-frame-048.png,sheet-06.png,1,3,original generated illustration,original
-frame-049.png,sheet-06.png,2,1,original generated illustration,original
-frame-050.png,sheet-06.png,2,2,original generated illustration,original
-frame-051.png,sheet-06.png,2,3,original generated illustration,original
-frame-052.png,sheet-06.png,3,1,original generated illustration,original
-frame-053.png,sheet-06.png,3,2,original generated illustration,original
-frame-054.png,sheet-06.png,3,3,original generated illustration,original
-frame-055.png,sheet-07.png,1,1,original generated illustration,original
-frame-056.png,sheet-07.png,1,2,original generated illustration,original
-frame-057.png,sheet-07.png,1,3,original generated illustration,original
-frame-058.png,sheet-07.png,2,1,original generated illustration,original
-frame-059.png,sheet-07.png,2,2,original generated illustration,original
-frame-060.png,sheet-07.png,2,3,original generated illustration,original
-frame-061.png,sheet-07.png,3,1,original generated illustration,original
-frame-062.png,sheet-07.png,3,2,original generated illustration,original
-frame-063.png,sheet-07.png,3,3,original generated illustration,original
-frame-064.png,sheet-08.png,1,1,original generated illustration,original
-frame-065.png,sheet-08.png,1,2,original generated illustration,original
-frame-066.png,sheet-08.png,1,3,original generated illustration,original
-frame-067.png,sheet-08.png,2,1,original generated illustration,original
-frame-068.png,sheet-08.png,2,2,original generated illustration,original
-frame-069.png,sheet-08.png,2,3,original generated illustration,original
-frame-070.png,sheet-08.png,3,1,original generated illustration,original
-frame-071.png,sheet-08.png,3,2,original generated illustration,original
-frame-072.png,sheet-08.png,3,3,original generated illustration,original
-frame-073.png,sheet-09.png,1,1,original generated illustration,original
-frame-074.png,sheet-09.png,1,2,original generated illustration,original
-frame-075.png,sheet-09.png,1,3,original generated illustration,original
-frame-076.png,sheet-09.png,2,1,original generated illustration,original
-frame-077.png,sheet-09.png,2,2,original generated illustration,original
-frame-078.png,sheet-09.png,2,3,original generated illustration,original
-frame-079.png,sheet-09.png,3,1,original generated illustration,original
-frame-080.png,sheet-09.png,3,2,original generated illustration,original
-frame-081.png,sheet-09.png,3,3,original generated illustration,original
-frame-082.png,sheet-10.png,1,1,original generated illustration,original
-frame-083.png,sheet-10.png,1,2,original generated illustration,original
-frame-084.png,sheet-10.png,1,3,original generated illustration,original
-frame-085.png,sheet-10.png,2,1,original generated illustration,original
-frame-086.png,sheet-10.png,2,2,original generated illustration,original
-frame-087.png,sheet-10.png,2,3,original generated illustration,original
-frame-088.png,sheet-10.png,3,1,original generated illustration,original
-frame-089.png,sheet-10.png,3,2,original generated illustration,original
-frame-090.png,sheet-10.png,3,3,original generated illustration,original
-frame-091.png,sheet-11.png,1,1,original generated illustration,original
-frame-092.png,sheet-11.png,1,2,original generated illustration,original
-frame-093.png,sheet-11.png,1,3,original generated illustration,original
-frame-094.png,sheet-11.png,2,1,original generated illustration,original
-frame-095.png,sheet-11.png,2,2,original generated illustration,original
-frame-096.png,sheet-11.png,2,3,original generated illustration,original
-frame-097.png,sheet-11.png,3,1,original generated illustration,original
-frame-098.png,sheet-11.png,3,2,original generated illustration,original
-frame-099.png,sheet-11.png,3,3,original generated illustration,original
-frame-100.png,sheet-12.png,1,1,original generated illustration,original
-frame-101.png,sheet-12.png,1,2,original generated illustration,original
-frame-102.png,sheet-12.png,1,3,original generated illustration,original
-frame-103.png,sheet-12.png,2,1,original generated illustration,original
-frame-104.png,sheet-12.png,2,2,original generated illustration,original
-frame-105.png,sheet-12.png,2,3,original generated illustration,original
-frame-106.png,sheet-12.png,3,1,original generated illustration,original
-frame-107.png,sheet-12.png,3,2,original generated illustration,original
-frame-108.png,sheet-12.png,3,3,original generated illustration,original
-frame-109.png,sheet-13.png,1,1,original generated illustration,original
-frame-110.png,sheet-13.png,1,2,original generated illustration,original
-frame-111.png,sheet-13.png,1,3,original generated illustration,original
-frame-112.png,sheet-13.png,2,1,original generated illustration,original
-frame-113.png,sheet-13.png,2,2,original generated illustration,original
-frame-114.png,sheet-13.png,2,3,original generated illustration,original
-frame-115.png,sheet-13.png,3,1,original generated illustration,original
-frame-116.png,sheet-13.png,3,2,original generated illustration,original
-frame-117.png,sheet-13.png,3,3,original generated illustration,original
-frame-118.png,sheet-14.png,1,1,original generated illustration,original
-frame-119.png,sheet-14.png,1,2,original generated illustration,original
-frame-120.png,sheet-14.png,1,3,original generated illustration,original
-frame-121.png,sheet-14.png,2,1,original generated illustration,original
-frame-122.png,sheet-14.png,2,2,original generated illustration,original
-frame-123.png,sheet-14.png,2,3,original generated illustration,original
-frame-124.png,sheet-14.png,3,1,original generated illustration,original
-frame-125.png,sheet-14.png,3,2,original generated illustration,original
-frame-126.png,sheet-14.png,3,3,original generated illustration,original
-frame-127.png,sheet-15.png,1,1,original generated illustration,original
-frame-128.png,sheet-15.png,1,2,original generated illustration,original
-frame-129.png,sheet-15.png,1,3,original generated illustration,original
-frame-130.png,sheet-15.png,2,1,original generated illustration,original
-frame-131.png,sheet-15.png,2,2,original generated illustration,original
-frame-132.png,sheet-15.png,2,3,original generated illustration,original
-frame-133.png,sheet-15.png,3,1,original generated illustration,original
-frame-134.png,sheet-15.png,3,2,original generated illustration,original
-frame-135.png,sheet-15.png,3,3,original generated illustration,original
-frame-136.png,sheet-16.png,1,1,original generated illustration,original
-frame-137.png,sheet-16.png,1,2,original generated illustration,original
-frame-138.png,sheet-16.png,1,3,original generated illustration,original
-frame-139.png,sheet-16.png,2,1,original generated illustration,original
-frame-140.png,sheet-16.png,2,2,original generated illustration,original
-frame-141.png,sheet-16.png,2,3,original generated illustration,original
-frame-142.png,sheet-16.png,3,1,original generated illustration,original
-frame-143.png,sheet-16.png,3,2,original generated illustration,original
-frame-144.png,sheet-16.png,3,3,original generated illustration,original
-frame-145.png,sheet-17.png,1,1,original generated illustration,original
-frame-146.png,sheet-17.png,1,2,original generated illustration,original
-frame-147.png,sheet-17.png,1,3,original generated illustration,original
-frame-148.png,sheet-17.png,2,1,original generated illustration,original
-frame-149.png,sheet-17.png,2,2,original generated illustration,original
-frame-150.png,sheet-17.png,2,3,original generated illustration,original
-frame-151.png,sheet-17.png,3,1,original generated illustration,original
-frame-152.png,sheet-17.png,3,2,original generated illustration,original
-frame-153.png,sheet-17.png,3,3,original generated illustration,original
-frame-154.png,sheet-18.png,1,1,original generated illustration,original
-frame-155.png,sheet-18.png,1,2,original generated illustration,original
-frame-156.png,sheet-18.png,1,3,original generated illustration,original
-frame-157.png,sheet-18.png,2,1,original generated illustration,original
-frame-158.png,sheet-18.png,2,2,original generated illustration,original
-frame-159.png,sheet-18.png,2,3,original generated illustration,original
-frame-160.png,sheet-18.png,3,1,original generated illustration,original
-frame-161.png,sheet-18.png,3,2,original generated illustration,original
-frame-162.png,sheet-18.png,3,3,original generated illustration,original
-frame-163.png,sheet-19.png,1,1,original generated illustration,original
-frame-164.png,sheet-19.png,1,2,original generated illustration,original
-frame-165.png,sheet-19.png,1,3,original generated illustration,original
-frame-166.png,sheet-19.png,2,1,original generated illustration,original
-frame-167.png,sheet-19.png,2,2,original generated illustration,original
-frame-168.png,sheet-19.png,2,3,original generated illustration,original
-frame-169.png,sheet-19.png,3,1,original generated illustration,original
-frame-170.png,sheet-19.png,3,2,original generated illustration,original
-frame-171.png,sheet-19.png,3,3,original generated illustration,original
-frame-172.png,sheet-20.png,1,1,original generated illustration,original
-frame-173.png,sheet-20.png,1,2,original generated illustration,original
-frame-174.png,sheet-20.png,1,3,original generated illustration,original
-frame-175.png,sheet-20.png,2,1,original generated illustration,original
-frame-176.png,sheet-20.png,2,2,original generated illustration,original
-frame-177.png,sheet-20.png,2,3,original generated illustration,original
-frame-178.png,sheet-20.png,3,1,original generated illustration,original
-frame-179.png,sheet-20.png,3,2,original generated illustration,original
-frame-180.png,sheet-20.png,3,3,original generated illustration,original
-frame-181.png,sheet-21.png,1,1,original generated illustration,original
-frame-182.png,sheet-21.png,1,2,original generated illustration,original
-frame-183.png,sheet-21.png,1,3,original generated illustration,original
-frame-184.png,sheet-21.png,2,1,original generated illustration,original
-frame-185.png,sheet-21.png,2,2,original generated illustration,original
-frame-186.png,sheet-21.png,2,3,original generated illustration,original
-frame-187.png,sheet-21.png,3,1,original generated illustration,original
-frame-188.png,sheet-21.png,3,2,original generated illustration,original
-frame-189.png,sheet-21.png,3,3,original generated illustration,original
-frame-190.png,sheet-22.png,1,1,original generated illustration,original
-frame-191.png,sheet-22.png,1,2,original generated illustration,original
-frame-192.png,sheet-22.png,1,3,original generated illustration,original
-frame-193.png,sheet-22.png,2,1,original generated illustration,original
-frame-194.png,sheet-22.png,2,2,original generated illustration,original
-frame-195.png,sheet-22.png,2,3,original generated illustration,original
-frame-196.png,sheet-22.png,3,1,original generated illustration,original
-frame-197.png,sheet-22.png,3,2,original generated illustration,original
-frame-198.png,sheet-22.png,3,3,original generated illustration,original
-frame-199.png,sheet-23.png,1,1,original generated illustration,original
-frame-200.png,sheet-23.png,1,2,original generated illustration,original
-frame-201.png,sheet-23.png,1,3,original generated illustration,original
-frame-202.png,sheet-23.png,2,1,original generated illustration,original
-frame-203.png,sheet-23.png,2,2,original generated illustration,original
-frame-204.png,sheet-23.png,2,3,original generated illustration,original
-frame-205.png,sheet-23.png,3,1,original generated illustration,original
-frame-206.png,sheet-23.png,3,2,original generated illustration,original
-frame-207.png,sheet-23.png,3,3,original generated illustration,original
-frame-208.png,sheet-24.png,1,1,original generated illustration,original
-frame-209.png,sheet-24.png,1,2,original generated illustration,original
-frame-210.png,sheet-24.png,1,3,original generated illustration,original
-frame-211.png,sheet-24.png,2,1,original generated illustration,original
-frame-212.png,sheet-24.png,2,2,original generated illustration,original
-frame-213.png,sheet-24.png,2,3,original generated illustration,original
-frame-214.png,sheet-24.png,3,1,original generated illustration,original
-frame-215.png,sheet-24.png,3,2,original generated illustration,original
-frame-216.png,sheet-24.png,3,3,original generated illustration,original
-frame-217.png,sheet-25.png,1,1,original generated illustration,original
-frame-218.png,sheet-25.png,1,2,original generated illustration,original
-frame-219.png,sheet-25.png,1,3,original generated illustration,original
-frame-220.png,sheet-25.png,2,1,original generated illustration,original
-frame-221.png,sheet-25.png,2,2,original generated illustration,original
-frame-222.png,sheet-25.png,2,3,original generated illustration,original
-frame-223.png,sheet-25.png,3,1,original generated illustration,original
-frame-224.png,sheet-25.png,3,2,original generated illustration,original
-frame-225.png,sheet-25.png,3,3,original generated illustration,original
-frame-226.png,sheet-26.png,1,1,original generated illustration,original
-frame-227.png,sheet-26.png,1,2,original generated illustration,original
-frame-228.png,sheet-26.png,1,3,original generated illustration,original
-frame-229.png,sheet-26.png,2,1,original generated illustration,original
-frame-230.png,sheet-26.png,2,2,original generated illustration,original
-frame-231.png,sheet-26.png,2,3,original generated illustration,original
-frame-232.png,sheet-26.png,3,1,original generated illustration,original
-frame-233.png,sheet-26.png,3,2,original generated illustration,original
-frame-234.png,sheet-26.png,3,3,original generated illustration,original
-frame-235.png,sheet-27.png,1,1,original generated illustration,original
-frame-236.png,sheet-27.png,1,2,original generated illustration,original
-frame-237.png,sheet-27.png,1,3,original generated illustration,original
-frame-238.png,sheet-27.png,2,1,original generated illustration,original
-frame-239.png,sheet-27.png,2,2,original generated illustration,original
-frame-240.png,sheet-27.png,2,3,original generated illustration,original
-frame-241.png,sheet-27.png,3,1,original generated illustration,original
-frame-242.png,sheet-27.png,3,2,original generated illustration,original
-frame-243.png,sheet-27.png,3,3,original generated illustration,original
-frame-244.png,sheet-28.png,1,1,original generated illustration,original
-frame-245.png,sheet-28.png,1,2,original generated illustration,original
-frame-246.png,sheet-28.png,1,3,original generated illustration,original
-frame-247.png,sheet-28.png,2,1,original generated illustration,original
-frame-248.png,sheet-28.png,2,2,original generated illustration,original
-frame-249.png,sheet-28.png,2,3,original generated illustration,original
-frame-250.png,sheet-28.png,3,1,original generated illustration,original
-frame-251.png,sheet-28.png,3,2,original generated illustration,original
-frame-252.png,sheet-28.png,3,3,original generated illustration,original
-frame-253.png,sheet-29.png,1,1,original generated illustration,original
-frame-254.png,sheet-29.png,1,2,original generated illustration,original
-frame-255.png,sheet-29.png,1,3,original generated illustration,original
-frame-256.png,sheet-29.png,2,1,original generated illustration,original
-frame-257.png,sheet-29.png,2,2,original generated illustration,original
-frame-258.png,sheet-29.png,2,3,original generated illustration,original
-frame-259.png,sheet-29.png,3,1,original generated illustration,original
-frame-260.png,sheet-29.png,3,2,original generated illustration,original
-frame-261.png,sheet-29.png,3,3,original generated illustration,original
-frame-262.png,sheet-30.png,1,1,original generated illustration,original
-frame-263.png,sheet-30.png,1,2,original generated illustration,original
-frame-264.png,sheet-30.png,1,3,original generated illustration,original
-frame-265.png,sheet-30.png,2,1,original generated illustration,original
-frame-266.png,sheet-30.png,2,2,original generated illustration,original
-frame-267.png,sheet-30.png,2,3,original generated illustration,original
-frame-268.png,sheet-30.png,3,1,original generated illustration,original
-frame-269.png,sheet-30.png,3,2,original generated illustration,original
-frame-270.png,sheet-30.png,3,3,original generated illustration,original
-frame-271.png,sheet-31.png,1,1,original generated illustration,original
-frame-272.png,sheet-31.png,1,2,original generated illustration,original
-frame-273.png,sheet-31.png,1,3,original generated illustration,original
-frame-274.png,sheet-31.png,2,1,original generated illustration,original
-frame-275.png,sheet-31.png,2,2,original generated illustration,original
-frame-276.png,sheet-31.png,2,3,original generated illustration,original
-frame-277.png,sheet-31.png,3,1,original generated illustration,original
-frame-278.png,sheet-31.png,3,2,original generated illustration,original
-frame-279.png,sheet-31.png,3,3,original generated illustration,original
-frame-280.png,sheet-32.png,1,1,original generated illustration,original
-frame-281.png,sheet-32.png,1,2,original generated illustration,original
-frame-282.png,sheet-32.png,1,3,original generated illustration,original
-frame-283.png,sheet-32.png,2,1,original generated illustration,original
-frame-284.png,sheet-32.png,2,2,original generated illustration,original
-frame-285.png,sheet-32.png,2,3,original generated illustration,original
-frame-286.png,sheet-32.png,3,1,original generated illustration,original
-frame-287.png,sheet-32.png,3,2,original generated illustration,original
-frame-288.png,sheet-32.png,3,3,original generated illustration,original
-frame-289.png,sheet-33.png,1,1,original generated illustration,original
-frame-290.png,sheet-33.png,1,2,original generated illustration,original
-frame-291.png,sheet-33.png,1,3,original generated illustration,original
-frame-292.png,sheet-33.png,2,1,original generated illustration,original
-frame-293.png,sheet-33.png,2,2,original generated illustration,original
-frame-294.png,sheet-33.png,2,3,original generated illustration,original
-frame-295.png,sheet-33.png,3,1,original generated illustration,original
-frame-296.png,sheet-33.png,3,2,original generated illustration,original
-frame-297.png,sheet-33.png,3,3,original generated illustration,original
-frame-298.png,sheet-34.png,1,1,original generated illustration,original
-frame-299.png,sheet-34.png,1,2,original generated illustration,original
-frame-300.png,sheet-34.png,1,3,original generated illustration,original
-frame-301.png,sheet-34.png,2,1,original generated illustration,original
-frame-302.png,sheet-34.png,2,2,original generated illustration,original
-frame-303.png,sheet-34.png,2,3,original generated illustration,original
-frame-304.png,sheet-34.png,3,1,original generated illustration,original
-frame-305.png,sheet-34.png,3,2,original generated illustration,original
-frame-306.png,sheet-34.png,3,3,original generated illustration,original
-frame-307.png,sheet-35.png,1,1,original generated illustration,original
-frame-308.png,sheet-35.png,1,2,original generated illustration,original
-frame-309.png,sheet-35.png,1,3,original generated illustration,original
-frame-310.png,sheet-35.png,2,1,original generated illustration,original
-frame-311.png,sheet-35.png,2,2,original generated illustration,original
-frame-312.png,sheet-35.png,2,3,original generated illustration,original
-frame-313.png,sheet-35.png,3,1,original generated illustration,original
-frame-314.png,sheet-35.png,3,2,original generated illustration,original
-frame-315.png,sheet-35.png,3,3,original generated illustration,original
-frame-316.png,sheet-36.png,1,1,original generated illustration,original
-frame-317.png,sheet-36.png,1,2,original generated illustration,original
-frame-318.png,sheet-36.png,1,3,original generated illustration,original
-frame-319.png,sheet-36.png,2,1,original generated illustration,original
-frame-320.png,sheet-36.png,2,2,original generated illustration,original
-frame-321.png,sheet-36.png,2,3,original generated illustration,original
-frame-322.png,sheet-36.png,3,1,original generated illustration,original
-frame-323.png,sheet-36.png,3,2,original generated illustration,original
-frame-324.png,sheet-36.png,3,3,original generated illustration,original
-frame-325.png,sheet-37.png,1,1,original generated illustration,original
-frame-326.png,sheet-37.png,1,2,original generated illustration,original
-frame-327.png,sheet-37.png,1,3,original generated illustration,original
-frame-328.png,sheet-37.png,2,1,original generated illustration,original
-frame-329.png,sheet-37.png,2,2,original generated illustration,original
-frame-330.png,sheet-37.png,2,3,original generated illustration,original
-frame-331.png,sheet-37.png,3,1,original generated illustration,original
-frame-332.png,sheet-37.png,3,2,original generated illustration,original
-frame-333.png,sheet-37.png,3,3,original generated illustration,original
+shot_index,frame,duration,shot_type,visual_purpose,rights_status
+1,frames/frame-001.png,3.510,medium,"Illustrating beat: Imagine this, you open Netflix and inste...",original
+2,frames/frame-002.png,3.510,wide establishing,"Illustrating beat: Imagine this, you open Netflix and inste...",original
+3,frames/frame-003.png,3.552,wide establishing,"Illustrating beat: Then you close Netflix, you open YouTube...",original
+4,frames/frame-004.png,3.552,ECU,"Illustrating beat: Then you close Netflix, you open YouTube...",original
+5,frames/frame-005.png,2.432,ECU,"Illustrating beat: Then you check Instagram, then your mess...",original
+6,frames/frame-006.png,2.432,over-shoulder,"Illustrating beat: Then you check Instagram, then your mess...",original
+7,frames/frame-007.png,3.622,over-shoulder,"Illustrating beat: You see dozens of products, different ph...",original
+8,frames/frame-008.png,3.622,top-down,"Illustrating beat: You see dozens of products, different ph...",original
+9,frames/frame-009.png,3.622,silhouette,"Illustrating beat: You see dozens of products, different ph...",original
+10,frames/frame-010.png,2.296,top-down,"Illustrating beat: It makes you feel tired because here's s...",original
+11,frames/frame-011.png,2.296,silhouette,"Illustrating beat: It makes you feel tired because here's s...",original
+12,frames/frame-012.png,3.385,silhouette,"Illustrating beat: We have more choices than humans have ev...",original
+13,frames/frame-013.png,3.385,medium,"Illustrating beat: We have more choices than humans have ev...",original
+14,frames/frame-014.png,3.253,medium,"Illustrating beat: We want to learn five skills, start thre...",original
+15,frames/frame-015.png,3.253,wide establishing,"Illustrating beat: We want to learn five skills, start thre...",original
+16,frames/frame-016.png,3.253,ECU,"Illustrating beat: We want to learn five skills, start thre...",original
+17,frames/frame-017.png,3.253,over-shoulder,"Illustrating beat: We want to learn five skills, start thre...",original
+18,frames/frame-018.png,2.257,wide establishing,"Illustrating beat: And somehow, we expect ourselves to do a...",original
+19,frames/frame-019.png,2.257,ECU,"Illustrating beat: And somehow, we expect ourselves to do a...",original
+20,frames/frame-020.png,2.089,ECU,"Illustrating beat: And when we can't, we think something's ...",original
+21,frames/frame-021.png,2.507,over-shoulder,"Illustrating beat: Maybe we're lazy, maybe we're undiscipli...",original
+22,frames/frame-022.png,2.507,top-down,"Illustrating beat: Maybe we're lazy, maybe we're undiscipli...",original
+23,frames/frame-023.png,3.176,top-down,"Illustrating beat: But what if the problem isn't that you h...",original
+24,frames/frame-024.png,2.925,silhouette,"Illustrating beat: What if you simply have too many options...",original
+25,frames/frame-025.png,3.343,medium,"Illustrating beat: There is a psychological phenomenon call...",original
+26,frames/frame-026.png,1.922,wide establishing,"Illustrating beat: The basic idea is simple....",original
+27,frames/frame-027.png,2.591,ECU,"Illustrating beat: When people are given too many choices, ...",original
+28,frames/frame-028.png,2.591,over-shoulder,"Illustrating beat: When people are given too many choices, ...",original
+29,frames/frame-029.png,2.089,over-shoulder,"Illustrating beat: You would think the opposite should be t...",original
+30,frames/frame-030.png,2.006,top-down,"Illustrating beat: More options should mean more freedom....",original
+31,frames/frame-031.png,2.257,silhouette,"Illustrating beat: More freedom should mean better decision...",original
+32,frames/frame-032.png,2.758,medium,"Illustrating beat: But the human brain doesn't always work ...",original
+33,frames/frame-033.png,2.925,wide establishing,"Illustrating beat: Every option creates another question....",original
+34,frames/frame-034.png,1.839,ECU,"Illustrating beat: Should I choose this or that?...",original
+35,frames/frame-035.png,1.588,over-shoulder,"Illustrating beat: What if there's something better?...",original
+36,frames/frame-036.png,1.421,top-down,"Illustrating beat: What if I make the wrong decision?...",original
+37,frames/frame-037.png,1.254,silhouette,"Illustrating beat: What if I regret it?...",original
+38,frames/frame-038.png,2.340,medium,"Illustrating beat: And suddenly, choosing becomes work....",original
+39,frames/frame-039.png,2.340,wide establishing,"Illustrating beat: Think about something as simple as watch...",original
+40,frames/frame-040.png,1.922,ECU,"Illustrating beat: If you only have five movies, you choose...",original
+41,frames/frame-041.png,1.922,over-shoulder,"Illustrating beat: If you only have five movies, you choose...",original
+42,frames/frame-042.png,3.399,over-shoulder,"Illustrating beat: But if you have 500, you start searching...",original
+43,frames/frame-043.png,3.399,top-down,"Illustrating beat: But if you have 500, you start searching...",original
+44,frames/frame-044.png,3.399,silhouette,"Illustrating beat: But if you have 500, you start searching...",original
+45,frames/frame-045.png,3.399,medium,"Illustrating beat: But if you have 500, you start searching...",original
+46,frames/frame-046.png,2.131,top-down,"Illustrating beat: The problem wasn't a lack of entertainme...",original
+47,frames/frame-047.png,2.131,silhouette,"Illustrating beat: The problem wasn't a lack of entertainme...",original
+48,frames/frame-048.png,2.925,silhouette,"Illustrating beat: And this happens everywhere, especially ...",original
+49,frames/frame-049.png,2.048,medium,"Illustrating beat: You don't just have one career path anym...",original
+50,frames/frame-050.png,2.048,wide establishing,"Illustrating beat: You don't just have one career path anym...",original
+51,frames/frame-051.png,2.874,wide establishing,"Illustrating beat: You can become a designer, a programmer,...",original
+52,frames/frame-052.png,2.874,ECU,"Illustrating beat: You can become a designer, a programmer,...",original
+53,frames/frame-053.png,2.874,over-shoulder,"Illustrating beat: You can become a designer, a programmer,...",original
+54,frames/frame-054.png,2.874,top-down,"Illustrating beat: You can become a designer, a programmer,...",original
+55,frames/frame-055.png,3.343,ECU,"Illustrating beat: You can work remotely, move to another c...",original
+56,frames/frame-056.png,3.343,over-shoulder,"Illustrating beat: You can work remotely, move to another c...",original
+57,frames/frame-057.png,3.343,top-down,"Illustrating beat: You can work remotely, move to another c...",original
+58,frames/frame-058.png,3.343,silhouette,"Illustrating beat: You can work remotely, move to another c...",original
+59,frames/frame-059.png,3.259,over-shoulder,"Illustrating beat: And every day the Internet reminds you t...",original
+60,frames/frame-060.png,3.259,top-down,"Illustrating beat: And every day the Internet reminds you t...",original
+61,frames/frame-061.png,3.261,top-down,"Illustrating beat: Someone is making money from YouTube, so...",original
+62,frames/frame-062.png,3.261,silhouette,"Illustrating beat: Someone is making money from YouTube, so...",original
+63,frames/frame-063.png,3.261,medium,"Illustrating beat: Someone is making money from YouTube, so...",original
+64,frames/frame-064.png,3.261,wide establishing,"Illustrating beat: Someone is making money from YouTube, so...",original
+65,frames/frame-065.png,2.674,silhouette,"Illustrating beat: And that's where another problem begins....",original
+66,frames/frame-066.png,2.591,medium,"Illustrating beat: FOMO, the fear of missing out....",original
+67,frames/frame-067.png,3.176,wide establishing,"Illustrating beat: Because when you have unlimited options,...",original
+68,frames/frame-068.png,3.176,ECU,"Illustrating beat: Because when you have unlimited options,...",original
+69,frames/frame-069.png,1.421,ECU,"Illustrating beat: Your brain doesn't like that....",original
+70,frames/frame-070.png,3.218,over-shoulder,"Illustrating beat: Imagine you decide to focus on learning ...",original
+71,frames/frame-071.png,3.218,top-down,"Illustrating beat: Imagine you decide to focus on learning ...",original
+72,frames/frame-072.png,2.758,top-down,"Illustrating beat: But then you see someone online talking ...",original
+73,frames/frame-073.png,2.758,silhouette,"Illustrating beat: But then you see someone online talking ...",original
+74,frames/frame-074.png,4.337,silhouette,"Illustrating beat: So you start thinking maybe I should lea...",original
+75,frames/frame-075.png,4.337,medium,"Illustrating beat: So you start thinking maybe I should lea...",original
+76,frames/frame-076.png,4.337,wide establishing,"Illustrating beat: So you start thinking maybe I should lea...",original
+77,frames/frame-077.png,4.337,ECU,"Illustrating beat: So you start thinking maybe I should lea...",original
+78,frames/frame-078.png,3.343,medium,"Illustrating beat: And this is one of the biggest traps of ...",original
+79,frames/frame-079.png,2.674,wide establishing,"Illustrating beat: We think keeping every door open gives u...",original
+80,frames/frame-080.png,2.674,ECU,"Illustrating beat: We think keeping every door open gives u...",original
+81,frames/frame-081.png,2.674,over-shoulder,"Illustrating beat: We think keeping every door open gives u...",original
+82,frames/frame-082.png,3.438,ECU,"Illustrating beat: Think about your attention, your attenti...",original
+83,frames/frame-083.png,3.438,over-shoulder,"Illustrating beat: Think about your attention, your attenti...",original
+84,frames/frame-084.png,3.438,top-down,"Illustrating beat: Think about your attention, your attenti...",original
+85,frames/frame-085.png,3.438,silhouette,"Illustrating beat: Think about your attention, your attenti...",original
+86,frames/frame-086.png,3.188,over-shoulder,"Illustrating beat: And every time you switch there is a cos...",original
+87,frames/frame-087.png,3.188,top-down,"Illustrating beat: And every time you switch there is a cos...",original
+88,frames/frame-088.png,3.188,silhouette,"Illustrating beat: And every time you switch there is a cos...",original
+89,frames/frame-089.png,3.188,medium,"Illustrating beat: And every time you switch there is a cos...",original
+90,frames/frame-090.png,2.802,top-down,"Illustrating beat: This is why you can spend an entire day ...",original
+91,frames/frame-091.png,2.802,silhouette,"Illustrating beat: This is why you can spend an entire day ...",original
+92,frames/frame-092.png,3.259,silhouette,"Illustrating beat: You answer messages, watch videos, resea...",original
+93,frames/frame-093.png,3.259,medium,"Illustrating beat: You answer messages, watch videos, resea...",original
+94,frames/frame-094.png,3.259,wide establishing,"Illustrating beat: You answer messages, watch videos, resea...",original
+95,frames/frame-095.png,3.218,medium,"Illustrating beat: And at the end of the day, you feel exha...",original
+96,frames/frame-096.png,3.218,wide establishing,"Illustrating beat: And at the end of the day, you feel exha...",original
+97,frames/frame-097.png,2.925,wide establishing,"Illustrating beat: Because you are active but not focused....",original
+98,frames/frame-098.png,3.523,ECU,"Illustrating beat: And focus is not simply the ability to c...",original
+99,frames/frame-099.png,3.523,over-shoulder,"Illustrating beat: And focus is not simply the ability to c...",original
+100,frames/frame-100.png,3.176,over-shoulder,"Illustrating beat: To say, not this, not now, maybe later....",original
+101,frames/frame-101.png,2.340,top-down,"Illustrating beat: I'm choosing this one thing, that sounds...",original
+102,frames/frame-102.png,2.716,silhouette,"Illustrating beat: But, it's incredibly difficult in a worl...",original
+103,frames/frame-103.png,2.716,medium,"Illustrating beat: But, it's incredibly difficult in a worl...",original
+104,frames/frame-104.png,3.649,medium,"Illustrating beat: More content, more entertainment, more p...",original
+105,frames/frame-105.png,3.649,wide establishing,"Illustrating beat: More content, more entertainment, more p...",original
+106,frames/frame-106.png,3.649,ECU,"Illustrating beat: More content, more entertainment, more p...",original
+107,frames/frame-107.png,2.865,wide establishing,"Illustrating beat: And the strange thing is we often mistak...",original
+108,frames/frame-108.png,2.865,ECU,"Illustrating beat: And the strange thing is we often mistak...",original
+109,frames/frame-109.png,3.280,ECU,"Illustrating beat: We think if we keep researching we will ...",original
+110,frames/frame-110.png,3.280,over-shoulder,"Illustrating beat: We think if we keep researching we will ...",original
+111,frames/frame-111.png,3.280,top-down,"Illustrating beat: We think if we keep researching we will ...",original
+112,frames/frame-112.png,3.280,silhouette,"Illustrating beat: We think if we keep researching we will ...",original
+113,frames/frame-113.png,2.702,over-shoulder,"Illustrating beat: But sometimes, research becomes another ...",original
+114,frames/frame-114.png,2.702,top-down,"Illustrating beat: But sometimes, research becomes another ...",original
+115,frames/frame-115.png,2.702,silhouette,"Illustrating beat: But sometimes, research becomes another ...",original
+116,frames/frame-116.png,3.586,top-down,"Illustrating beat: You can keep imagining different futures...",original
+117,frames/frame-117.png,3.586,silhouette,"Illustrating beat: You can keep imagining different futures...",original
+118,frames/frame-118.png,3.176,silhouette,"Illustrating beat: This is why constraints can actually be ...",original
+119,frames/frame-119.png,2.173,medium,"Illustrating beat: A constraint is simply a limit....",original
+120,frames/frame-120.png,2.424,wide establishing,"Illustrating beat: Instead of asking what could I possibly ...",original
+121,frames/frame-121.png,2.424,ECU,"Illustrating beat: Instead of asking what could I possibly ...",original
+122,frames/frame-122.png,2.089,ECU,"Illustrating beat: Instead of 10 goals, choose two....",original
+123,frames/frame-123.png,3.014,over-shoulder,"Illustrating beat: Instead of learning five skills, choose ...",original
+124,frames/frame-124.png,3.051,top-down,"Illustrating beat: Instead of trying every strategy, choose...",original
+125,frames/frame-125.png,3.051,silhouette,"Illustrating beat: Instead of trying every strategy, choose...",original
+126,frames/frame-126.png,3.343,silhouette,"Illustrating beat: Instead of asking what's the best possib...",original
+127,frames/frame-127.png,3.343,medium,"Illustrating beat: Instead of asking what's the best possib...",original
+128,frames/frame-128.png,2.842,medium,"Illustrating beat: Because perfection has a hidden cost....",original
+129,frames/frame-129.png,2.925,wide establishing,"Illustrating beat: The more you try to optimize every decis...",original
+130,frames/frame-130.png,2.925,ECU,"Illustrating beat: The more you try to optimize every decis...",original
+131,frames/frame-131.png,2.215,ECU,"Illustrating beat: And eventually, you optimize yourself in...",original
+132,frames/frame-132.png,2.215,over-shoulder,"Illustrating beat: And eventually, you optimize yourself in...",original
+133,frames/frame-133.png,2.285,over-shoulder,"Illustrating beat: You don't need the perfect choice, you n...",original
+134,frames/frame-134.png,2.285,top-down,"Illustrating beat: You don't need the perfect choice, you n...",original
+135,frames/frame-135.png,3.427,top-down,"Illustrating beat: Think about successful people you admire...",original
+136,frames/frame-136.png,3.259,silhouette,"Illustrating beat: Many of them didn't win because they dis...",original
+137,frames/frame-137.png,3.259,medium,"Illustrating beat: Many of them didn't win because they dis...",original
+138,frames/frame-138.png,2.458,medium,"Illustrating beat: They often won because they stay with so...",original
+139,frames/frame-139.png,2.458,wide establishing,"Illustrating beat: They often won because they stay with so...",original
+140,frames/frame-140.png,2.479,wide establishing,"Illustrating beat: They repeated, they improved, they becam...",original
+141,frames/frame-141.png,2.479,ECU,"Illustrating beat: They repeated, they improved, they becam...",original
+142,frames/frame-142.png,2.479,over-shoulder,"Illustrating beat: They repeated, they improved, they becam...",original
+143,frames/frame-143.png,2.348,ECU,"Illustrating beat: While everyone else was jumping from one...",original
+144,frames/frame-144.png,2.348,over-shoulder,"Illustrating beat: While everyone else was jumping from one...",original
+145,frames/frame-145.png,3.594,over-shoulder,"Illustrating beat: This doesn't mean you should blindly sti...",original
+146,frames/frame-146.png,3.482,top-down,"Illustrating beat: Sometimes changing direction is exactly ...",original
+147,frames/frame-147.png,3.482,silhouette,"Illustrating beat: Sometimes changing direction is exactly ...",original
+148,frames/frame-148.png,3.482,medium,"Illustrating beat: Sometimes changing direction is exactly ...",original
+149,frames/frame-149.png,2.089,silhouette,"Illustrating beat: That's the part most people don't notice...",original
+150,frames/frame-150.png,3.510,medium,"Illustrating beat: You start something, the excitement is h...",original
+151,frames/frame-151.png,3.510,wide establishing,"Illustrating beat: You start something, the excitement is h...",original
+152,frames/frame-152.png,3.334,wide establishing,"Illustrating beat: So another opportunity starts looking at...",original
+153,frames/frame-153.png,3.334,ECU,"Illustrating beat: So another opportunity starts looking at...",original
+154,frames/frame-154.png,3.334,over-shoulder,"Illustrating beat: So another opportunity starts looking at...",original
+155,frames/frame-155.png,3.334,top-down,"Illustrating beat: So another opportunity starts looking at...",original
+156,frames/frame-156.png,2.257,ECU,"Illustrating beat: The world doesn't reward everything you ...",original
+157,frames/frame-157.png,2.452,over-shoulder,"Illustrating beat: It rewards what you actually do, and tha...",original
+158,frames/frame-158.png,2.452,top-down,"Illustrating beat: It rewards what you actually do, and tha...",original
+159,frames/frame-159.png,2.452,silhouette,"Illustrating beat: It rewards what you actually do, and tha...",original
+160,frames/frame-160.png,1.922,top-down,"Illustrating beat: Imagine waking up and already knowing wh...",original
+161,frames/frame-161.png,1.922,silhouette,"Illustrating beat: Imagine waking up and already knowing wh...",original
+162,frames/frame-162.png,2.006,silhouette,"Illustrating beat: You don't need to decide what to learn....",original
+163,frames/frame-163.png,1.003,medium,"Illustrating beat: You already chose....",original
+164,frames/frame-164.png,2.048,wide establishing,"Illustrating beat: You don't need to decide what project to...",original
+165,frames/frame-165.png,2.048,ECU,"Illustrating beat: You don't need to decide what project to...",original
+166,frames/frame-166.png,2.131,ECU,"Illustrating beat: You don't need to constantly search for ...",original
+167,frames/frame-167.png,2.131,over-shoulder,"Illustrating beat: You don't need to constantly search for ...",original
+168,frames/frame-168.png,2.925,over-shoulder,"Illustrating beat: Your brain becomes quieter, your energy ...",original
+169,frames/frame-169.png,2.925,top-down,"Illustrating beat: Your brain becomes quieter, your energy ...",original
+170,frames/frame-170.png,1.880,top-down,"Illustrating beat: This is what systems can do, a system re...",original
+171,frames/frame-171.png,1.880,silhouette,"Illustrating beat: This is what systems can do, a system re...",original
+172,frames/frame-172.png,2.048,silhouette,"Illustrating beat: Instead of asking every morning whether ...",original
+173,frames/frame-173.png,2.048,medium,"Illustrating beat: Instead of asking every morning whether ...",original
+174,frames/frame-174.png,2.557,medium,"Illustrating beat: Instead of deciding every day what to wo...",original
+175,frames/frame-175.png,2.557,wide establishing,"Illustrating beat: Instead of deciding every day what to wo...",original
+176,frames/frame-176.png,1.839,wide establishing,"Illustrating beat: Instead of wondering when you'll create,...",original
+177,frames/frame-177.png,1.839,ECU,"Illustrating beat: Instead of wondering when you'll create,...",original
+178,frames/frame-178.png,3.009,ECU,"Illustrating beat: You don't rely on motivation, you reduce...",original
+179,frames/frame-179.png,3.009,over-shoulder,"Illustrating beat: You don't rely on motivation, you reduce...",original
+180,frames/frame-180.png,3.009,top-down,"Illustrating beat: You don't rely on motivation, you reduce...",original
+181,frames/frame-181.png,2.800,over-shoulder,"Illustrating beat: Sometimes discipline means designing you...",original
+182,frames/frame-182.png,2.800,top-down,"Illustrating beat: Sometimes discipline means designing you...",original
+183,frames/frame-183.png,3.558,top-down,"Illustrating beat: The goal isn't to eliminate freedom, it'...",original
+184,frames/frame-184.png,3.558,silhouette,"Illustrating beat: The goal isn't to eliminate freedom, it'...",original
+185,frames/frame-185.png,3.558,medium,"Illustrating beat: The goal isn't to eliminate freedom, it'...",original
+186,frames/frame-186.png,3.558,wide establishing,"Illustrating beat: The goal isn't to eliminate freedom, it'...",original
+187,frames/frame-187.png,3.427,silhouette,"Illustrating beat: Companies compete for it, apps compete f...",original
+188,frames/frame-188.png,3.427,medium,"Illustrating beat: Companies compete for it, apps compete f...",original
+189,frames/frame-189.png,2.535,medium,"Illustrating beat: Everyone wants a piece of your attention...",original
+190,frames/frame-190.png,2.535,wide establishing,"Illustrating beat: Everyone wants a piece of your attention...",original
+191,frames/frame-191.png,2.535,ECU,"Illustrating beat: Everyone wants a piece of your attention...",original
+192,frames/frame-192.png,3.296,wide establishing,"Illustrating beat: That's why protecting your focus matters...",original
+193,frames/frame-193.png,3.296,ECU,"Illustrating beat: That's why protecting your focus matters...",original
+194,frames/frame-194.png,3.296,over-shoulder,"Illustrating beat: That's why protecting your focus matters...",original
+195,frames/frame-195.png,3.733,ECU,"Illustrating beat: One video becomes ten, one notification ...",original
+196,frames/frame-196.png,3.733,over-shoulder,"Illustrating beat: One video becomes ten, one notification ...",original
+197,frames/frame-197.png,3.733,top-down,"Illustrating beat: One video becomes ten, one notification ...",original
+198,frames/frame-198.png,3.092,over-shoulder,"Illustrating beat: You stop living according to your priori...",original
+199,frames/frame-199.png,1.880,top-down,"Illustrating beat: You start reacting to whatever appears i...",original
+200,frames/frame-200.png,1.880,silhouette,"Illustrating beat: You start reacting to whatever appears i...",original
+201,frames/frame-201.png,2.340,silhouette,"Illustrating beat: So maybe the question isn't how can I do...",original
+202,frames/frame-202.png,2.340,medium,"Illustrating beat: So maybe the question isn't how can I do...",original
+203,frames/frame-203.png,3.343,medium,"Illustrating beat: Maybe the better question is what can I ...",original
+204,frames/frame-204.png,2.340,wide establishing,"Illustrating beat: What goals don't actually matter?...",original
+205,frames/frame-205.png,2.089,ECU,"Illustrating beat: What information don't I need?...",original
+206,frames/frame-206.png,2.633,over-shoulder,"Illustrating beat: What opportunities am I chasing simply b...",original
+207,frames/frame-207.png,2.633,top-down,"Illustrating beat: What opportunities am I chasing simply b...",original
+208,frames/frame-208.png,2.507,top-down,"Illustrating beat: What decisions can I make once so I don'...",original
+209,frames/frame-209.png,2.507,silhouette,"Illustrating beat: What decisions can I make once so I don'...",original
+210,frames/frame-210.png,2.563,silhouette,"Illustrating beat: And most importantly what deserves my at...",original
+211,frames/frame-211.png,2.563,medium,"Illustrating beat: And most importantly what deserves my at...",original
+212,frames/frame-212.png,2.563,wide establishing,"Illustrating beat: And most importantly what deserves my at...",original
+213,frames/frame-213.png,2.257,medium,"Illustrating beat: That's not a problem, that's reality....",original
+214,frames/frame-214.png,3.655,wide establishing,"Illustrating beat: You cannot experience every career, cann...",original
+215,frames/frame-215.png,3.655,ECU,"Illustrating beat: You cannot experience every career, cann...",original
+216,frames/frame-216.png,3.655,over-shoulder,"Illustrating beat: You cannot experience every career, cann...",original
+217,frames/frame-217.png,3.655,top-down,"Illustrating beat: You cannot experience every career, cann...",original
+218,frames/frame-218.png,2.925,ECU,"Illustrating beat: You don't need every possible life, you ...",original
+219,frames/frame-219.png,5.126,over-shoulder,"Illustrating beat: That means closing some doors, saying no...",original
+220,frames/frame-220.png,5.126,top-down,"Illustrating beat: That means closing some doors, saying no...",original
+221,frames/frame-221.png,5.126,silhouette,"Illustrating beat: That means closing some doors, saying no...",original
+222,frames/frame-222.png,5.126,medium,"Illustrating beat: That means closing some doors, saying no...",original
+223,frames/frame-223.png,2.048,top-down,"Illustrating beat: Your focus becomes stronger when your op...",original
+224,frames/frame-224.png,2.048,silhouette,"Illustrating beat: Your focus becomes stronger when your op...",original
+225,frames/frame-225.png,3.250,silhouette,"Illustrating beat: Your progress becomes faster when your d...",original
+226,frames/frame-226.png,3.250,medium,"Illustrating beat: Your progress becomes faster when your d...",original
+227,frames/frame-227.png,3.250,wide establishing,"Illustrating beat: Your progress becomes faster when your d...",original
+228,frames/frame-228.png,3.250,ECU,"Illustrating beat: Your progress becomes faster when your d...",original
+229,frames/frame-229.png,2.512,medium,"Illustrating beat: You don't need more options, you need fe...",original
+230,frames/frame-230.png,2.512,wide establishing,"Illustrating beat: You don't need more options, you need fe...",original
+231,frames/frame-231.png,2.512,ECU,"Illustrating beat: You don't need more options, you need fe...",original
+232,frames/frame-232.png,2.006,wide establishing,"Illustrating beat: Sometimes it's the thing that finally gi...",original
+233,frames/frame-233.png,2.006,ECU,"Illustrating beat: Sometimes it's the thing that finally gi...",original
+234,frames/frame-234.png,2.010,ECU,"Illustrating beat: Subscribe to Why We Become....",original
